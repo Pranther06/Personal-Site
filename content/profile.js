@@ -1,31 +1,28 @@
 /* ============================================================
    PROFILE CONTENT
-   Plain data — no framework dependency. Edit these values to
-   personalize the site. Swap the placeholders below with your
-   real name, links, and taglines.
    ============================================================ */
 
 export const profile = {
-  // Shown in header brand + hero. Replace with your real name.
-  name: "Your Name",
+  // Shown in header brand + hero.
+  name: "Pranav Agrawala",
   // Short brand mark (initials) used in the header logo.
-  initials: "YN",
+  initials: "PA",
 
-  // Hero taglines — the typewriter cycles through these.
+  // Hero taglines - the typewriter cycles through these.
   taglines: [
-    "Software engineer, exploring the frontier of ML & quantum.",
-    "Building software today, researching the tech of tomorrow.",
-    "Engineer. ML tinkerer. Quantum researcher.",
+    "CS + Physics at UNC Chapel Hill, graduating May 2028.",
+    "Software engineer and AWS SDE intern, previously at Ally Bank.",
+    "ML researcher, quant, and quantum computing explorer.",
   ],
 
   // Optional hero photo. Put an image in /assets and set the path,
   // e.g. "./assets/me.jpg". Leave empty ("") to show a placeholder.
   photo: "",
 
-  // Social / contact links. Leave href as "#" to keep a placeholder.
+  // Social / contact links.
   links: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    email: "you@example.com",
+    github: "https://github.com/Pranther06",
+    linkedin: "https://linkedin.com/in/pranav-agrw",
+    email: "pranava@unc.edu",
   },
 };
